@@ -11,7 +11,7 @@ _Islam Khaled_
 -----------------------------------------
 ![lab2](https://github.com/eslamkhaled560/terraform-bastion-server/assets/54172897/172ba1d3-a2f2-421e-8734-a81b60b7f39f)
 
-### Terraform apply output
+### Terraform Apply Output
 
 ![1](https://github.com/eslamkhaled560/terraform-bastion-server/assets/54172897/f51c7164-b0d1-44dd-baf4-9c5912db77d6)
 
