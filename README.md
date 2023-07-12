@@ -1,4 +1,4 @@
-# Terraform Lab 1 - Apache AWS EC2
+# Terraform Lab 2 - Bastion Server
 
 **Presented to:**    
 _Sabreen Salama_    
